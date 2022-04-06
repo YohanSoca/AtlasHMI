@@ -1,0 +1,17 @@
+.controller {
+    height: 130px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    color: wheat;
+}
+
+.page-link {
+    color: wheat;
+    margin: 20px;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+

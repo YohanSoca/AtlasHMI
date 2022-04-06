@@ -1,0 +1,13 @@
+.gauge-wrapper {
+    padding-top: 40px;
+    background-color: black;
+    border-radius: 20px;
+    height: 300px;
+
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: wheat;
+}

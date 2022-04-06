@@ -1,0 +1,11 @@
+.thermometer-wrapper {
+    
+    height: 300px;
+
+    padding-top: 40px;
+    background-color: black;
+    border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+}
